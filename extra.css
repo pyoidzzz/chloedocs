@@ -1,5 +1,17 @@
 :root {
-    --md-primary-fg-color:        #c32525;
-    --md-primary-fg-color--light: #c32525;
-    --md-primary-fg-color--dark:  #7d0000;
+    --md-primary-fg-color:        #ff01d6;
+    --md-primary-fg-color--light: #db71ca;
+    --md-primary-fg-color--dark:  #790f68;
   }
+
+.md-header {
+  background-color: #ff01d6;
+}
+
+.md-tabs {
+  background-color: #a30089;
+}
+
+.md-typeset a {
+  color: #db71ca;
+}
